@@ -1,0 +1,6 @@
+---
+title: "Introduction to dplyr"
+author: "auriane jobard"
+format: revealjs
+editor: visual
+---
